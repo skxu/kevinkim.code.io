@@ -57,7 +57,7 @@ var Mediabox;
 				text: ['<big>&laquo;</big>','<big>&raquo;</big>','<big>&times;</big>'],		// Set "previous", "next", and "close" button content (HTML code should be written as entity codes or properly escaped)
 //				text: ['<big>«</big>','<big>»</big>','<big>×</big>'],		// Set "previous", "next", and "close" button content (HTML code should be written as entity codes or properly escaped)
 //	example		text: ['<b>P</b>rev','<b>N</b>ext','<b>C</b>lose'],
-				loop: false,					// Allows to navigate between first and last images
+				loop: true,					// Allows to navigate between first and last images
 				keyboard: true,					// Enables keyboard control; escape key, left arrow, and right arrow
 				alpha: true,					// Adds 'x', 'c', 'p', and 'n' when keyboard control is also set to true
 				stopKey: false,					// Stops all default keyboard actions while overlay is open (such as up/down arrows)
