@@ -1935,8 +1935,8 @@ a {
 p {
   font-family: inherit;
   font-weight: normal;
-  font-size: .9rem;
-  line-height: 1.25;
+  font-size: .75rem;
+  line-height: 0;
   margin-bottom: .65rem;
   text-rendering: optimizeLegibility; }
   p.lead {
@@ -1950,9 +1950,9 @@ p {
 p2 {
   font-family: inherit;
   font-weight: normal;
-  font-size: .75rem;
-  line-height: 0;
-  margin-bottom: .65rem;
+  font-size: .9rem;
+  line-height: 1;
+  margin-bottom: .75rem;
   text-rendering: optimizeLegibility; }
 
 

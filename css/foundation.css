@@ -1898,6 +1898,10 @@ td {
   margin: 0;
   padding: 0; }
 
+.asdfasdf {
+ margin-left: .35rem;   
+}
+
 /* Default Link Styles */
 a {
   color: #999999;
@@ -1923,6 +1927,8 @@ p {
     font-size: 0.875rem;
     line-height: 1.35;
     font-style: italic; }
+
+
 
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
