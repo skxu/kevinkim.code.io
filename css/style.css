@@ -6,6 +6,11 @@ html, body {
 .banner {
   position: relative;
   width: 100%;
+  margin-top: 1rem;
+}
+
+.header {
+  padding-bottom: .5rem;   
 }
 
 .row {
@@ -30,10 +35,10 @@ html, body {
   font-family:"Georgia", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   font-size: 14px;
-  line-height: 1;
+  line-height: 1.75;
   margin-bottom: .75rem;
-  margin-left: 4.5rem;
-  margin-right: 4.5rem;
+  margin-left: 8rem;
+  margin-right: 8rem;
   text-rendering: optimizeLegibility; 
 }
 
@@ -42,12 +47,12 @@ html, body {
 }
 
 .imageJinju img {
-  width: 325px;
+  width: 350px;
 }
 
 .titleJinju {
-  margin-top: 1.5rem;
-  line-height: .5;
+  margin-top: 1.25rem;
+  line-height: 1;
 }
 
 .subtitleJinju {
