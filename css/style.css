@@ -14,13 +14,26 @@ html, body {
   margin-right: auto;
 }
 
+.screenshots2
+{border-style: double;
+    border-color: #A8A8A8;
+    margin-left: .5rem;
+    margin-right: .5rem;
+    margin-bottom: 1rem;
+}
+
+.bodyparagraph {
+    margin-bottom: 1rem;
+}
 
 .aboutJinju {
   font-family:"Georgia", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1;
   margin-bottom: .75rem;
+  margin-left: 4.5rem;
+  margin-right: 4.5rem;
   text-rendering: optimizeLegibility; 
 }
 
@@ -29,10 +42,21 @@ html, body {
 }
 
 .imageJinju img {
-  padding-left:10px;
-  padding-right:10px;
-  width: 350px;
+  width: 325px;
 }
+
+.titleJinju {
+  margin-top: 1.5rem;
+  line-height: .5;
+}
+
+.subtitleJinju {
+  font-size: .9rem;
+  font-family: "Avenir", Helvetica, Roboto, Arial; 
+  color: #666362;}
+}
+
+
 
 @media only screen and (max-width: 62em) {
   .imageJinju img {

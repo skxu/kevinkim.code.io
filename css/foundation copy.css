@@ -1899,7 +1899,7 @@ td {
 a {
   color: #999999;
   text-decoration: none;
-  line-height: inherit; }
+  line-height: 0; }
   a:hover, a:focus {
     color: #0078a0; }
   a img {

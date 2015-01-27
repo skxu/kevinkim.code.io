@@ -1880,19 +1880,18 @@ td {
   margin: 0;
   padding: 0; }
 
-.asdfasdf {
- margin-left: .35rem;   
-}
 
 /* Default Link Styles */
 a {
   color: #999999;
   text-decoration: none;
-  line-height: inherit; }
+  line-height: 0; 
+margin-bottom: 0;}
   a:hover, a:focus {
     color: #0078a0; }
   a img {
-    border: none; }
+    border: none;
+    line-height: 0;}
 
 /* Default paragraph styles */
 p {
@@ -1943,7 +1942,7 @@ h3 {
 h4 {
   font-size: 1.125rem;
   font-family: "Avenir", Helvetica, Roboto, Arial; 
-    color: #666362;}
+  color: #666362;}
 
 h5 {
     text-indent: 25px;
